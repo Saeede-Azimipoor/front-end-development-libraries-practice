@@ -5,11 +5,11 @@ I’m building small components and apps to improve my skills and get ready for 
 
 ## What’s inside:
 
-- ✅ JSX Basics
-- ✅ Functional Components
-- 🔄 Props and State (In Progress)
-- 🔄 Event Handling
-- 🔄 Small Apps (To-Do, Weather, etc.)
+- ✅ [JSX Basics](./01-jsx-basics)
+- ✅ [Functional Components](./02-functional-components)
+- 🔄 [Props](./03-props)
+- 🔄 [State](./04-state)
+- 🔄 [Events](./05-events)
 
 ---
 
