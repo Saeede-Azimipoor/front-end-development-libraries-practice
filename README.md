@@ -17,4 +17,4 @@ I’m building small components and apps to improve my skills and get ready for 
 
 I'm Saeede, an aspiring front-end developer based in Vancouver. I'm passionate about creating clean, user-friendly interfaces and bringing ideas to life through code.
 
-Connect with me on [LinkedIn]([https://www.linkedin.com/in/saeede-azimi/]).
+📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/saeede-azimi/)
