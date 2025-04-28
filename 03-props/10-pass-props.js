@@ -1,1 +1,0 @@
-const App = () => <Welcome name="Saeede" />;

@@ -1,1 +1,0 @@
-const Message = (props) => <p>{props.text}</p>;
